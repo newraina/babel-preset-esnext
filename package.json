@@ -11,6 +11,10 @@
     "preset",
     "esnext"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newraina/babel-preset-esnext"
+  },
   "author": "newraina",
   "license": "ISC",
   "dependencies": {
