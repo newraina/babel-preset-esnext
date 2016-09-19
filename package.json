@@ -1,0 +1,29 @@
+{
+  "name": "babel-preset-esnext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "preset",
+    "esnext"
+  ],
+  "author": "newraina",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-async-to-module-method": "^6.8.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-es2016": "^6.11.3",
+    "babel-preset-es2017": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-1": "^6.13.0",
+    "babel-preset-stage-2": "^6.13.0",
+    "babel-preset-stage-3": "^6.11.0",
+    "co": "^4.6.0",
+    "modify-babel-preset": "^3.1.0"
+  }
+}
